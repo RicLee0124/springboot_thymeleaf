@@ -1,0 +1,40 @@
+2018-07-08 16:34:02.566  INFO 5452 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 5452 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 16:34:02.568 DEBUG 5452 --- [main] c.l.s.SpringBootDemoApplication          : Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-08 16:34:02.569  INFO 5452 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 16:34:03.593  INFO 5452 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.226 seconds (JVM running for 1.609)
+2018-07-08 16:36:04.653  INFO 10736 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 10736 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 16:36:04.661  INFO 10736 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 16:36:05.651  INFO 10736 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.199 seconds (JVM running for 1.586)
+2018-07-08 16:39:44.444  INFO 11232 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 11232 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 16:39:44.446  INFO 11232 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 16:39:45.443  INFO 11232 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.196 seconds (JVM running for 1.582)
+2018-07-08 16:42:34.881  INFO 15660 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 15660 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 16:42:34.883 DEBUG 15660 --- [main] c.l.s.SpringBootDemoApplication          : Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-08 16:42:34.884  INFO 15660 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 16:42:35.885  INFO 15660 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.208 seconds (JVM running for 1.592)
+2018-07-08 16:43:12.387  INFO 15660 --- [http-nio-8081-exec-8] c.l.springbootdemo.web.HelloController   : test method getAll....
+2018-07-08 16:46:29.995  INFO 10272 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 10272 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 16:46:29.997 DEBUG 10272 --- [main] c.l.s.SpringBootDemoApplication          : Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-08 16:46:29.998  INFO 10272 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 16:46:30.989  INFO 10272 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.213 seconds (JVM running for 1.592)
+2018-07-08 16:46:41.743  INFO 10272 --- [http-nio-8082-exec-4] c.l.springbootdemo.web.HelloController   : test method getAll....
+2018-07-08 16:57:18.950  INFO 13716 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 13716 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 16:57:18.952 DEBUG 13716 --- [main] c.l.s.SpringBootDemoApplication          : Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-08 16:57:18.953  INFO 13716 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 16:57:19.967  INFO 13716 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.238 seconds (JVM running for 1.621)
+2018-07-08 17:02:06.698  INFO 5940 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 5940 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 17:02:06.699 DEBUG 5940 --- [main] c.l.s.SpringBootDemoApplication          : Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-08 17:02:06.700  INFO 5940 --- [main] c.l.s.SpringBootDemoApplication          : No active profile set, falling back to default profiles: default
+2018-07-08 17:02:07.710  INFO 5940 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.238 seconds (JVM running for 1.62)
+2018-07-08 17:06:35.192  INFO 11768 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 11768 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 17:06:35.193  INFO 11768 --- [main] c.l.s.SpringBootDemoApplication          : The following profiles are active: pro
+2018-07-08 17:06:36.199  INFO 11768 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.232 seconds (JVM running for 1.615)
+2018-07-08 17:15:54.067  INFO 8088 --- [main] c.l.s.SpringBootDemoApplication          : Starting SpringBootDemoApplication on DESKTOP-8Q7GN9L with PID 8088 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 17:15:54.082  INFO 8088 --- [main] c.l.s.SpringBootDemoApplication          : The following profiles are active: pro
+2018-07-08 17:15:55.379  INFO 8088 --- [main] c.l.s.SpringBootDemoApplication          : Started SpringBootDemoApplication in 1.703 seconds (JVM running for 2.169)
+2018-07-08 17:26:47.890  INFO 13400 --- [main] c.l.s.SpringBootDemoApplicationTests     : Starting SpringBootDemoApplicationTests on DESKTOP-8Q7GN9L with PID 13400 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 17:26:47.891  INFO 13400 --- [main] c.l.s.SpringBootDemoApplicationTests     : The following profiles are active: pro
+2018-07-08 17:26:49.426  INFO 13400 --- [main] c.l.s.SpringBootDemoApplicationTests     : Started SpringBootDemoApplicationTests in 1.781 seconds (JVM running for 2.342)
+2018-07-08 17:48:11.217  INFO 7060 --- [main] c.l.s.SpringBootDemoApplicationTests     : Starting SpringBootDemoApplicationTests on DESKTOP-8Q7GN9L with PID 7060 (started by 18373 in C:\idea workspace\spring_boot_learning)
+2018-07-08 17:48:11.218  INFO 7060 --- [main] c.l.s.SpringBootDemoApplicationTests     : The following profiles are active: pro
+2018-07-08 17:48:12.533  INFO 7060 --- [main] c.l.s.SpringBootDemoApplicationTests     : Started SpringBootDemoApplicationTests in 1.565 seconds (JVM running for 2.427)
